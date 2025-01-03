@@ -28,13 +28,13 @@ This repository holds all installation resources for "Plastic Detective Mobile A
     <td><a href="https://github.com/niwsri/CERP-Data-TPACK-CCCs-/blob/main/TPACK%20Test%20Scores.xls">TPACK Test Scores</a></td>
   </tr>
   <tr>
-    <td>TPACK Lesson Plan Design Scores.xls</td>
-    <td>Excel file containing all raw data of TPACK scores measured by lesson plan tasks</td>
+    <td>Appsheet (iOS)</td>
+    <td>AppSheet is a no-code platform that allows you to create custom mobile apps for Android (as well as iOS and web) directly from data sources like Google Sheets or Excel. Its intuitive interface, built-in automations, and seamless integrations enable users—without any programming experience—to quickly develop and deploy apps for data collection, task management, and more.</td>
     <td><a href="https://github.com/niwsri/CERP-Data-TPACK-CCCs-/blob/main/TPACK%20Lesson%20Plan%20Design%20Scores.xls">TPACK Lesson Plan Design Scores</a></td>
   </tr>
   <tr>
-    <td>Ocean Clean-Up: citizen inquiry mobile app (Example 1)</td>
-    <td>A citizen science mobile app to track plastic debris transport in rivers</td>
+    <td>Appsheet (Andriod)</td>
+    <td>AppSheet is a no-code platform that allows you to create custom mobile apps for Android (as well as iOS and web) directly from data sources like Google Sheets or Excel. Its intuitive interface, built-in automations, and seamless integrations enable users—without any programming experience—to quickly develop and deploy apps for data collection, task management, and more.</td>
     <td><a href="https://apps.apple.com/nl/app/the-ocean-cleanup-survey-app/id1533071965">The Ocean Cleanup Survey App(iOS)</a></td>
   </tr>
   <tr>
