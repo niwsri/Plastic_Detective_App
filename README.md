@@ -29,13 +29,13 @@ This repository holds all installation resources for "Plastic Detective Mobile A
   </tr>
   <tr>
     <td>Appsheet (iOS)</td>
-    <td>AppSheet is a no-code platform that allows you to create custom mobile apps for Android (as well as iOS and web) directly from data sources like Google Sheets or Excel. Its intuitive interface, built-in automations, and seamless integrations enable users—without any programming experience—to quickly develop and deploy apps for data collection, task management, and more.</td>
+    <td>AppSheet is the intelligent, no-code platform that allows you to create custom mobile apps for iOS, Android, and web directly from data sources like Google Sheets or Excel. Its intuitive interface, built-in automations, and seamless integrations enable users—without any programming experience—to quickly develop and deploy apps for data collection, task management, and more.</td>
     <td><a href="https://github.com/niwsri/CERP-Data-TPACK-CCCs-/blob/main/TPACK%20Lesson%20Plan%20Design%20Scores.xls](https://apps.apple.com/us/app/appsheet/id732548900?platform=iphone">AppSheet(iOS)</a></td>
   </tr>
   <tr>
     <td>Appsheet (Andriod)</td>
-    <td>AppSheet is a no-code platform that allows you to create custom mobile apps for Android (as well as iOS and web) directly from data sources like Google Sheets or Excel. Its intuitive interface, built-in automations, and seamless integrations enable users—without any programming experience—to quickly develop and deploy apps for data collection, task management, and more.</td>
-    <td><a href="https://apps.apple.com/nl/app/the-ocean-cleanup-survey-app/id1533071965">The Ocean Cleanup Survey App(iOS)</a></td>
+    <td>AppSheet is the intelligent, no-code platform that allows you to create custom mobile apps for iOS, Android, and web directly from data sources like Google Sheets or Excel. Its intuitive interface, built-in automations, and seamless integrations enable users—without any programming experience—to quickly develop and deploy apps for data collection, task management, and more.</td>
+    <td><a href="https://apps.apple.com/nl/app/the-ocean-cleanup-survey-app/id1533071965](https://play.google.com/store/apps/details?id=x1Trackmaster.x1Trackmaster&hl=en&pli=1">AppSheet(Andriod)</a></td>
   </tr>
   <tr>
     <td>Debris Tracker: Citizen inquiry mobile app (Example 2)</td>
