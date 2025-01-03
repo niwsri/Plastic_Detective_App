@@ -30,7 +30,7 @@ This repository holds all installation resources for "Plastic Detective Mobile A
   <tr>
     <td>Appsheet (iOS)</td>
     <td>AppSheet is a no-code platform that allows you to create custom mobile apps for Android (as well as iOS and web) directly from data sources like Google Sheets or Excel. Its intuitive interface, built-in automations, and seamless integrations enable users—without any programming experience—to quickly develop and deploy apps for data collection, task management, and more.</td>
-    <td><a href="[https://github.com/niwsri/CERP-Data-TPACK-CCCs-/blob/main/TPACK%20Lesson%20Plan%20Design%20Scores.xls](https://apps.apple.com/us/app/appsheet/id732548900?platform=iphone)">TPACK Lesson Plan Design Scores</a></td>
+    <td><a href="https://github.com/niwsri/CERP-Data-TPACK-CCCs-/blob/main/TPACK%20Lesson%20Plan%20Design%20Scores.xls](https://apps.apple.com/us/app/appsheet/id732548900?platform=iphone">AppSheet(iOS)</a></td>
   </tr>
   <tr>
     <td>Appsheet (Andriod)</td>
