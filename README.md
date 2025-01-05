@@ -42,27 +42,5 @@ This repository holds all installation resources for "Plastic Detective Mobile A
     <td>The AppSheet app is a hosting app that hosts the Plastic Detective apps of this study. When you install and run the Plastic Detective app on your device, it will appear to run on its own, but it's actually "hosted" by the AppSheet Hosting app.</td>
     <td><a href="https://apps.apple.com/nl/app/the-ocean-cleanup-survey-app/id1533071965](https://play.google.com/store/apps/details?id=x1Trackmaster.x1Trackmaster&hl=en&pli=1">AppSheet(Andriod)</a></td>
   </tr>
-  <tr>
-    <td>Debris Tracker: Citizen inquiry mobile app (Example 2)</td>
-    <td>A citizen science mobile app to track data on plastic pollution in our community</td>
-    <td><a href="https://apps.apple.com/us/app/marine-debris-tracker/id432758761?mt=8&amp;ign-mpt=uo%3D4">Debris Tracker App(iOS)<br>
-    <a href="https://play.google.com/store/apps/details?id=edu.uga.engr.geolog.marinedebristrack">Debris Tracker App(Andriod)</a></td>
-  </tr>
-  <tr>
-    <td>iNaturalists: Citizen inquiry mobile app (Example 3)</td>
-    <td>A citizen science mobile app to track data on identify plants and animals surrounding us</td>
-    <td><a href="https://apps.apple.com/us/app/inaturalist/id421397028">iNaturalists App(iOS)<br>
-    <a href="https://play.google.com/store/apps/details?id=org.inaturalist.android">iNaturalists App(Andriod)</a></td>
-  </tr>
-  <tr>
-    <td>Vivista</td>
-    <td>a 360° video editor and player for producing interactive video object</td>
-    <td><a href="https://github.com/pxl-research/Vivista-Legacy/releases">Vvista software</a></td>
-  </tr>
-  <tr>
-    <td>ChemDraw</td>
-    <td>a software for drawing molecule structures and finding stereochemistry of the molecules</td>
-    <td><a href="https://revvitysignals.com/products/research/chemdraw">ChemDraw Software</a></td>
-  </tr>
 </table>
 <br>
