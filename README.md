@@ -28,12 +28,12 @@ This repository holds all installation resources for "Plastic Detective Mobile A
     <td><a href="https://www.appsheet.com/newshortcut/71d360bd-6a0a-4058-abb1-c8611b21e008">Plastic Detective Install Link</a></td>
   </tr>
   <tr>
-    <td>Appsheet (iOS)</td>
+    <td>Appsheet hosting app for iOS</td>
     <td>The AppSheet app is a hosting app that hosts the Plastic Detective apps of this study. When you install and run the Plastic Detective app on your device, it will appear to run on its own, but it's actually "hosted" by the AppSheet Hosting app.</td>
     <td><a href="https://github.com/niwsri/CERP-Data-TPACK-CCCs-/blob/main/TPACK%20Lesson%20Plan%20Design%20Scores.xls](https://apps.apple.com/us/app/appsheet/id732548900?platform=iphone">AppSheet(iOS)</a></td>
   </tr>
   <tr>
-    <td>Appsheet (Andriod)</td>
+    <td>Appsheet hosting app for Andriod</td>
     <td>The AppSheet app is a hosting app that hosts the Plastic Detective apps of this study. When you install and run the Plastic Detective app on your device, it will appear to run on its own, but it's actually "hosted" by the AppSheet Hosting app.</td>
     <td><a href="https://apps.apple.com/nl/app/the-ocean-cleanup-survey-app/id1533071965](https://play.google.com/store/apps/details?id=x1Trackmaster.x1Trackmaster&hl=en&pli=1">AppSheet(Andriod)</a></td>
   </tr>
