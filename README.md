@@ -23,17 +23,22 @@ This repository holds all installation resources for "Plastic Detective Mobile A
     <th>Link</th>
   </tr>
   <tr>
-    <td>Plastic Detective Inastall Link</td>
+    <td>1. Plastic Detective Inastall Link</td>
+    <td>The Plastic Detective mobile app aims to engage young people, such as school students at all levels, in understanding the circular economy for plastics through a Citizen Inquiry learning approach. This link allows mobile users to install the app on their mobile device. When you clicks this install link on their mobile device, you will be asked to install the AppSheet Hosting app on your device. You will be taken to the iTunes Store for iOS or the Google Play Store for Android, or you can use the link No.3 for iOS or No.4 for Andriod directly on this page. However, if the AppSheet Hosting app is already present on the device, this step is skipped.</td>
+    <td><a href="https://www.appsheet.com/newshortcut/71d360bd-6a0a-4058-abb1-c8611b21e008">Plastic Detective Install Link</a></td>
+  </tr>
+  <tr>
+    <td>2. Plastic Detective Browser Link</td>
     <td>The Plastic Detective mobile app aims to engage young people, such as school students at all levels, in understanding the circular economy for plastics through a Citizen Inquiry learning approach. This link allows mobile users to install the app on their mobile device</td>
     <td><a href="https://www.appsheet.com/newshortcut/71d360bd-6a0a-4058-abb1-c8611b21e008">Plastic Detective Install Link</a></td>
   </tr>
   <tr>
-    <td>Appsheet hosting app for iOS</td>
+    <td>3. Appsheet hosting app for iOS</td>
     <td>The AppSheet app is a hosting app that hosts the Plastic Detective apps of this study. When you install and run the Plastic Detective app on your device, it will appear to run on its own, but it's actually "hosted" by the AppSheet Hosting app.</td>
     <td><a href="https://github.com/niwsri/CERP-Data-TPACK-CCCs-/blob/main/TPACK%20Lesson%20Plan%20Design%20Scores.xls](https://apps.apple.com/us/app/appsheet/id732548900?platform=iphone">AppSheet(iOS)</a></td>
   </tr>
   <tr>
-    <td>Appsheet hosting app for Andriod</td>
+    <td>4. Appsheet hosting app for Andriod</td>
     <td>The AppSheet app is a hosting app that hosts the Plastic Detective apps of this study. When you install and run the Plastic Detective app on your device, it will appear to run on its own, but it's actually "hosted" by the AppSheet Hosting app.</td>
     <td><a href="https://apps.apple.com/nl/app/the-ocean-cleanup-survey-app/id1533071965](https://play.google.com/store/apps/details?id=x1Trackmaster.x1Trackmaster&hl=en&pli=1">AppSheet(Andriod)</a></td>
   </tr>
