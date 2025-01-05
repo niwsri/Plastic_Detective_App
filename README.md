@@ -29,7 +29,7 @@ This repository holds all installation resources for "Plastic Detective Mobile A
   </tr>
   <tr>
     <td>2. Plastic Detective Browser Link</td>
-    <td>The Plastic Detective mobile app aims to engage young people, such as school students at all levels, in understanding the circular economy for plastics through a Citizen Inquiry learning approach. This link allows mobile users to install the app on their mobile device. The Plastic Detective browser link is the link to access the app in a browser, DO NOT NEED to install the Plastic Detective app on your mobile device.</td>
+    <td>The Plastic Detective mobile app aims to engage young people, such as school students at all levels, in understanding the circular economy for plastics through a Citizen Inquiry learning approach. This link allows mobile users to install the app on their mobile device. The Plastic Detective browser link is the link to access the app in a browser, DO NOT NEED to install the AppSheet hosting app and the Plastic Detective app on your mobile device.</td>
     <td><a href="https://www.appsheet.com/newshortcut/71d360bd-6a0a-4058-abb1-c8611b21e008">Plastic Detective Install Link</a></td>
   </tr>
   <tr>
