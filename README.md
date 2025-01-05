@@ -13,7 +13,7 @@ This repository holds all installation resources for "Plastic Detective Mobile A
 <header>
   <h1>Figure</h1>
   <figure>
-  <img src="Plastic Detective app (Example).jpg" alt="Plastic Detective app." style="width:100%">
+  <img src="Plastic Detective app (Example).JPG" alt="Plastic Detective app." style="width:100%">
   <figcaption>The Plastic Detective app example</figcaption>
 </figure><br>
   <p>Note: The final data set used in analysis is available for public use. Additionally, deidentified raw survey data is available here. Due to IRB Restrictions all data files used in analysis that contain institutional information (Name, ID, etc.) prior to the final merged, and deidientified data are available upon direct request. Following approval, all deidentified data including institutional info will be shared directly.</p>
