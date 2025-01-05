@@ -57,7 +57,7 @@ This repository holds all installation resources for "Plastic Detective Mobile A
 </header>
 <br>
 <header>
-  <h1>The Developer</h1>
+  <h1>The App Developer</h1>
   <figure>
   <img src="Niwat_chill.png" alt="Niwat Srisawasdi" style="width:20%">
 </figure>
