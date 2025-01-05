@@ -24,8 +24,8 @@ This repository holds all installation resources for "Plastic Detective Mobile A
   </tr>
   <tr>
     <td>Plastic Detective app</td>
-    <td>Excel file containing all raw data of TPACK scores measured by multiple-choice test</td>
-    <td><a href="https://github.com/niwsri/CERP-Data-TPACK-CCCs-/blob/main/TPACK%20Test%20Scores.xls">TPACK Test Scores</a></td>
+    <td>Allows mobile users to install the app on their device</td>
+    <td><a href="https://www.appsheet.com/newshortcut/71d360bd-6a0a-4058-abb1-c8611b21e008">Plastic Detective Install Link</a></td>
   </tr>
   <tr>
     <td>Appsheet (iOS)</td>
