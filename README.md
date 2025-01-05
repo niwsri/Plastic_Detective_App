@@ -13,7 +13,7 @@ This repository holds all installation resources for "Plastic Detective Mobile A
 <header>
   <h1>Figure</h1>
   <figure>
-  <img src="Plastic Detective app (sample).png" alt="Plastic Detective app." style="width:100%">
+  <img src="Plastic Detective app (sample).png" alt="Plastic Detective app." style="width:50%">
   <figcaption>The Plastic Detective app example</figcaption>
 </figure><br>
 </header>
@@ -58,5 +58,8 @@ This repository holds all installation resources for "Plastic Detective Mobile A
 <br>
 <header>
   <h1>The Developer</h1>
+  <figure>
+  <img src="Niwat_chill.png" alt="Niwat Srisawasdi" style="width:20%">
+</figure>
   <p>Niwat Srisawasdi – Science educator at the Faculty of Education, Khon Kaen University, Thailand, and the President of Digital Education and Learning Engineering Association, Thailand.</p>
 </header>
