@@ -31,22 +31,22 @@ This repository holds all installation resources for "Plastic Detective Mobile A
   </tr>
   <tr>
     <td>1. Plastic Detective Inastall Link</td>
-    <td>The Plastic Detective mobile app aims to engage young people, such as school students at all levels, in understanding the circular economy for plastics through a Citizen Inquiry learning approach. This link allows mobile users to install the app on their mobile device. When you clicks this install link on their mobile device, you will be asked to install the AppSheet Hosting app on your device. You will be taken to the iTunes Store for iOS or the Google Play Store for Android, or you can use the link No.3 for iOS or No.4 for Andriod directly on this page. However, if the AppSheet Hosting app is already present on the device, this step is skipped.</td>
+    <td>The Plastic Detective mobile app is designed to engage students at all educational levels in understanding the circular economy for plastics using a Citizen Inquiry learning approach. This link allows mobile users to install the app on their devices. Upon clicking the link, users may be prompted to install the AppSheet Hosting app. If the hosting app is already installed, this step will be skipped. The hosting app can also be downloaded from the iTunes Store for iOS or the Google Play Store for Android.</td>
     <td><a href="https://www.appsheet.com/newshortcut/71d360bd-6a0a-4058-abb1-c8611b21e008">Plastic Detective Install Link</a></td>
   </tr>
   <tr>
     <td>2. Plastic Detective Browser Link</td>
-    <td>The Plastic Detective mobile app aims to engage young people, such as school students at all levels, in understanding the circular economy for plastics through a Citizen Inquiry learning approach. This link allows mobile users to install the app on their mobile device. The Plastic Detective browser link is the link to access the app in a browser, DO NOT NEED to install the AppSheet hosting app and the Plastic Detective app on your mobile device.</td>
+    <td>The Plastic Detective mobile app enables browser-based access to support a seamless experience for users exploring the circular plastic economy. This link allows users to access the app directly in a browser, eliminating the need for installing the AppSheet Hosting app on their devices.</td>
     <td><a href="https://www.appsheet.com/newshortcut/71d360bd-6a0a-4058-abb1-c8611b21e008">Plastic Detective Install Link</a></td>
   </tr>
   <tr>
     <td>3. Appsheet hosting app for iOS</td>
-    <td>The AppSheet app is a hosting app that hosts the Plastic Detective apps of this study. When you install and run the Plastic Detective app on your device, it will appear to run on its own, but it's actually "hosted" by the AppSheet Hosting app.</td>
+    <td>The AppSheet Hosting app is required to run the Plastic Detective app on iOS devices. While the Plastic Detective app appears to run independently, it operates through this hosting platform. This link directs users to download the hosting app from the iTunes Store.</td>
     <td><a href="https://github.com/niwsri/CERP-Data-TPACK-CCCs-/blob/main/TPACK%20Lesson%20Plan%20Design%20Scores.xls](https://apps.apple.com/us/app/appsheet/id732548900?platform=iphone">AppSheet (iOS)</a></td>
   </tr>
   <tr>
     <td>4. Appsheet hosting app for Andriod</td>
-    <td>The AppSheet app is a hosting app that hosts the Plastic Detective apps of this study. When you install and run the Plastic Detective app on your device, it will appear to run on its own, but it's actually "hosted" by the AppSheet Hosting app.</td>
+    <td>The AppSheet Hosting app is required to run the Plastic Detective app on Android devices. The Plastic Detective app operates via this hosting app, ensuring smooth functionality. This link directs users to download the hosting app from the Google Play Store.</td>
     <td><a href="https://apps.apple.com/nl/app/the-ocean-cleanup-survey-app/id1533071965](https://play.google.com/store/apps/details?id=x1Trackmaster.x1Trackmaster&hl=en&pli=1">AppSheet (Andriod)</a></td>
   </tr>
 </table>
