@@ -54,6 +54,7 @@ This repository holds all installation resources for "Plastic Detective Mobile A
 <header>
   <h1>Demonstration Video</h1>
   <p>To provide a comprehensive overview of the Plastic Detective mobile app and its features, a demonstration video has been created. This video guides users through the app’s functionality, including installation, navigation, data collection processes, and its key features, such as GPS mapping, photo evidence collection, and crowdsourcing tools. The video highlights real-world applications of the app in educational settings, showcasing how students at different educational levels engage with its tools to explore the circular plastic economy. This visual resource serves as an accessible introduction for educators, students, and stakeholders, offering step-by-step instructions and insights into the app's pedagogical applications. The video is available for viewing and download via this link</p>
+https://www.youtube.com/shorts/k_ESbo3dtMk
 <br>
 <header>
   <h1>The App Developer</h1>
